@@ -1,2 +1,5 @@
 library(tidyverse)
-table4a
+
+data("table4a")
+
+print(table4a)
